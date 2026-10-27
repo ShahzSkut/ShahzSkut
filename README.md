@@ -3,7 +3,7 @@
 **`Digital BlackSmith (Developer/Marketing Editor/Gamer)`**
 
 <h3>
-I am currently pursuing a Diploma in Computer Science, and every project showcased here has been built from the ground up — from backend logic to UI design. I’m passionate about learning almost anything, but my deepest interest lies in intelligent robotics. It’s my dream to one day build a robot of my own. 
+I am currently pursuing a Bachelor of Artificial Intelligence with Honours, building upon my foundational Diploma in Computer Science. Every project showcased here is crafted from the ground up — spanning full-stack logic, backend architecture, and intuitive UI design. Driven by an insatiable curiosity to learn almost anything across technology, my deepest ambition lies in intelligent robotics and autonomous systems, with the ultimate dream of engineering a robot of my own.
 <br />
 <br />
 If you’d like to know more about me, feel free to check out the website section of my profile you’ll find links to my LinkedIn, LeetCode, and more.
@@ -23,6 +23,9 @@ If you’d like to know more about me, feel free to check out the website sectio
   <img  alt="CSS" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img  alt="JavaScript" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img  alt="Python" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img alt="R" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+  <img alt="Rust" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+  <img alt="Typescript" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 </p>
 <br />
 
@@ -40,7 +43,14 @@ If you’d like to know more about me, feel free to check out the website sectio
   <img  alt="AndroidStudio" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
   <img  alt="Firebase" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
   <img  alt="Unity" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-  <img  alt="Linux" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img  alt="Linux" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
+  <img alt="MatLab" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+  <img alt="Postgresql" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="Pycharm" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />  
+  <img alt="Postman" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img alt="React" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Supabase" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+  <img alt="vitejs" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
 </p>
 <br />
 
