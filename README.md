@@ -6,7 +6,7 @@
 I am currently pursuing a Bachelor of Artificial Intelligence with Honours, building upon my foundational Diploma in Computer Science. Every project showcased here is crafted from the ground up — spanning full-stack logic, backend architecture, and intuitive UI design. Driven by an insatiable curiosity to learn almost anything across technology, my deepest ambition lies in intelligent robotics and autonomous systems, with the ultimate dream of engineering a robot of my own.
 <br />
 <br />
-If you’d like to know more about me, feel free to check out the website section of my profile you’ll find links to my LinkedIn, LeetCode, and more.
+If you’d like to know more about me, feel free to check out the website section of my profile you’ll find links to my LinkedIn and more.
 <h3 />
 
 #
